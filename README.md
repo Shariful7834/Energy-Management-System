@@ -2,8 +2,8 @@
 ### **Explanation of Roles:**
 
 1. **Md Shariful Islam**: 
-   - Acts as the **Project Lead**, responsible for system architecture, developing the log management system, and coordinating the overall flow of the project.
-   - Led the implementation of the search functionality using regular expressions.
+   - Responsible for system architecture, developing the log management system, and coordinating the overall flow of the project.
+   - Implementation of the search functionality using regular expressions.
    
 2. **Mahdi Yahia**: 
    - Focuses on **File Operations** (creating, moving, deleting logs) and **Data Simulation** using byte and character streams.
