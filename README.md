@@ -15,9 +15,7 @@
 
 ---
 
-This division of roles ensures that each team member contributes to a specific part of the project, allowing for clear accountability and efficient collaboration. Make sure to update the team members' names in the README file.
 
-Let me know if you need further customization or clarification!
 
 
 
