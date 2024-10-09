@@ -6,14 +6,14 @@
 
 1. **Md Shariful Islam**: 
    - Responsible for system architecture, developing the log management system, and coordinating the overall flow of the project.
-   - Implementation of the search functionality using regular expressions.
+   - Handled the version control system and project requirements.
    
 2. **Mahdi Yahia**: 
    - Focuses on **File Operations** (creating, moving, deleting logs) and **Data Simulation** using byte and character streams.
    - Developed the logic for handling and archiving log files.
 
 3. **Saikot Das Joy**: 
-   - Focuses on **Testing and Documentation** to ensure the system functions correctly.
+   - Focuses on **Regular Log files** to ensure the system functions correctly.
    - Responsible for error handling and writing project documentation, including test cases and setup instructions.
 
 ---
